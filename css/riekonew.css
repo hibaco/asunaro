@@ -1,15 +1,14 @@
 h1, h2 {margin:0; padding:0;}
 body{
     color: #1c1a19;
-    background-image: url('new-blue1.jpg');
-    background-repeat:no-repeat;
-    background-color: #293c1d;
+    background-color: #96bef5;
     font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
  Meiryo, Arial, Verdana, sans-serif;
    }
  .wrapper{
     width:800px;
-    margin:0px auto;}
+    margin:0px auto;
+}
  .header{
   margin:40px 0px 0px 0px;}
 h1 {
@@ -46,7 +45,7 @@ h1 {
  .entry{
     width:230px;
     float: left;
-    margin:10px 15px 10px 20px;
+    margin:10px 15px 20px 20px;
     height:200px;
     text-align: center;
     background-color: #fff;
@@ -67,7 +66,7 @@ h1 {
     text-align: right; 
 }
 .encho{
-    margin:20px 0px 0px 10px;
+    margin:20px 0px 0px 0px;
     float:right;
 }
 .pbox2{
@@ -102,8 +101,7 @@ h1 {
     float: left;
     margin:20px auto;
     padding: 5px 10px 5px;
-    background-color:#fff4f6;
-    border-radius:5px;
+    background-color:#fff;
     font-size:85%;
     text-align: left;
 } 
@@ -112,21 +110,14 @@ h1 {
     float: left;
     margin:20px auto;
     padding: 5px 10px 5px;
-    background-color:#effafc;
-    border-radius:5px;
+    background-color:#fff;
     font-size:85%;
     text-align: left;
 } 
 .schoolname{
     text-align: right;
     font-size:75%;
-    padding: 0px 3px 0px 0px;
-}
-.schoolname2{
-    text-align: right;
-    font-size:75%;
-    padding: 0px 3px 0px 0px;
-    color: #fff;
+    color: #26335f;
 }
 .select1{
     border-left:6.5px solid #17c6f0;
@@ -139,7 +130,7 @@ h1 {
     border-left:6.5px solid #f0b617;
     border-bottom:1px solid #ccc;
     padding:.3em .3em;
-    margin: 15px 3px 3px 3px;
+    margin: 5px 3px 3px 3px;
     font-size:120%;
 }
 .select3{
@@ -206,9 +197,12 @@ h1 {
     text-decoration:underline;
     color:#a00b0b; 
 }
-.underline1{
-    text-decoration:underline;
+.blueletter{
     color:#0032bb; 
+}
+.smallletter{
+    color:#0032bb; 
+    font-size:85%;
 }
 figure{
     display: block;
@@ -263,12 +257,13 @@ color: #17c6f0;
     width:800px;
     border-spacing:0px;
     background-color: #ffffff;
-    font-size:80%;    
+    font-size:80%; 
+    margin: 0px 0px 20px 0px;
 }
 .nenkantable{
     width:800px;
     border-spacing:0px;
-    margin: 60px 0px 0px 0px;
+    margin: 65px 0px 20px 0px;
     background-color: #ffffff;
     font-size:80%;    
 }
@@ -307,7 +302,7 @@ tr.head2{
 }
 tr.head3{
     width:200px;
-    background-color: #ccc;
+    background-color: #c7c0f5;
     color:#26335f;
 }
 tr.head4{
@@ -317,8 +312,8 @@ tr.head4{
 }
 tr.head5{
     width:200px;
-    background-color: #87e2f8;
-    color: #26335f;
+    background-color: #fc947c;
+    color: #831d3c;
 }
 tr.even{
     background-color: #dfeaed;
@@ -335,9 +330,12 @@ tr:hover{
 footer {
     clear: both;
     font-size:70%;
-    color: #fff;
+    color: #26335f;
     padding: 7px 0px 0px 20px;
     text-align: center;
+    border-top-color: #fff;
+    border-top-style: solid;
+    border-top-width; 2px;
 }
 
 
