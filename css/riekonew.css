@@ -70,7 +70,7 @@ h1 {
     float:right;
 }
 .pbox2{
-    width:56.5%;
+    width:450px;
     float: left;
     margin:20px auto;
     padding: 5px 10px 5px;
@@ -275,6 +275,12 @@ color: #17c6f0;
 .secondline2{
     display:block;
     font-size:75%;
+    color: #9b1b38;
+}
+.secondline3{
+    display:block;
+    font-size:75%;
+    color: #0032bb;
 }
 th, td{
     padding: 7px 7px 7px 7px;
