@@ -308,22 +308,26 @@ tr.head th{
 }
 tr.head2{
     width:200px;
-    background-color: #ffe783;
+    background-image: url('autumn.gif');
+    background-repeat: repeat;
     color: #db571c;
 }
 tr.head3{
     width:200px;
-    background-color: #c7c0f5;
+    background-image: url('winter.gif');
+    background-repeat: repeat;
     color:#26335f;
 }
 tr.head4{
     width:200px;
-    background-color: #c2f86a;
+    background-image: url('spring.gif');
+    background-repeat: repeat;
     color: #07410e;
 }
 tr.head5{
     width:200px;
-    background-color: #fc947c;
+    background-image: url('summer.gif');
+    background-repeat: repeat;
     color: #831d3c;
 }
 tr.even{
