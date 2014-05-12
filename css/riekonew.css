@@ -1,7 +1,7 @@
 h1, h2 {margin:0; padding:0;}
 body{
     color: #1c1a19;
-    background-color: #96bef5;
+    background-color:#92befa;
     font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN',
  Meiryo, Arial, Verdana, sans-serif;
    }
@@ -342,6 +342,13 @@ tr:hover{
 .row1{
     width:200px;
 }
+.facegreen{
+    color:#26335f; 
+    font-size:80%;
+    margin-right: 40px;
+    padding: 5px 5px 5px 5px;
+    float:left
+}
 footer {
     clear: both;
     font-size:70%;
@@ -352,5 +359,6 @@ footer {
     border-top-style: solid;
     border-top-width; 2px;
 }
+
 
 
