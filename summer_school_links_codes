@@ -1,7 +1,12 @@
 <a href="greensummer.html">
-            <h3 class="green_intro">
-                グリニッチ国際学園サマースクール情報</h3>
-        </a><a href="iaassummer.html">
-            <h3 class="iaas_intro">
-                あすなろ国際学園IAASサマースクール情報</h3>
+            <h3 class="green_intro_half">
+                グリニッチ国際学園　サマースクール生受付中!
+                <br/>
+                Greenwich Kokusai Gakuen Summer info HERE</h3>
+        </a>
+        <a href="iaassummer.html">
+            <h3 class="iaas_intro_half">
+                あすなろ国際学園IAAS　サマースクール生受付中!
+                <br/>
+                IAAS Summer info HERE</h3>
         </a>

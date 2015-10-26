@@ -16,19 +16,22 @@ h1 {
     font-size: 170%;
     text-align:center;
 }
-.green_intro_2{
+.green_intro_half2{
     background-color:#f5f8a6;
     color:#fc690d;
-    font-size:95%;
-    width:92%;
+    font-size:90%;
+    width:45%;
     border:2px dashed #fcde39;
     border-radius:5px;
     box-shadow: 0 0 3px 3px #f5f8a6;
     text-shadow: 0 0 0px;
-    margin:20px 200px 20px 20px;
     padding:10px;
-    text-align:center;
+    text-align:left;
     float:left;
+}
+.dark_redletter{
+    color:#9b1b38; 
+    font-size:95%;
 }
 .green_intro_1{
     background-color:#ffcbd7;
@@ -56,6 +59,19 @@ h1 {
     padding:10px;
     text-align:center;
     float:left;
+}
+.iaas_intro_half2{
+    background-color:#c1e4e9;
+    color:#0032bb;
+    font-size:90%;
+    width:45%;
+    border:2px dashed #7ebddd;
+    border-radius:5px;
+    box-shadow: 0 0 3px 3px #c1e4e9;
+    text-shadow: 0 0 0px;
+    padding:10px;
+    text-align:left;
+    float:right;
 }
 .iaas_intro_1{
     background-color:#c1e4e9;
