@@ -19,28 +19,63 @@ h1 {
 .green_intro_half2{
     background-color:#f5f8a6;
     color:#fc690d;
-    font-size:90%;
-    width:45%;
+    font-size:88%;
+    width:46%;
     border:2px dashed #fcde39;
     border-radius:5px;
     box-shadow: 0 0 3px 3px #f5f8a6;
     text-shadow: 0 0 0px;
-    padding:10px;
-    text-align:left;
-    float:left;
+    padding:5px;
+    text-align:center;
+    float:right;
+}
+.white_intro_half{
+    background-color:#92befa;
+    color:#022ca0;
+    font-size:88%;
+    width:46%;
+    border:3px double #fff;
+    border-radius:5px;
+    box-shadow: 0 0 3px 3px #92befa;
+    text-shadow: 0 0 0px;
+    padding:5px;
+    text-align:center;
+    float:right;
 }
 .dark_redletter{
     color:#9b1b38; 
     font-size:95%;
 }
+.dark_redletter_underlined{
+    color:#9b1b38; 
+    font-size:95%;
+    text-decoration: underline;
+}
+.dark_blueletter{
+    color:#022ca0; 
+    font-size:95%;
+}
+.dark_blueletter_underlined{
+    color:#022ca0; 
+    font-size:95%;
+    text-decoration: underline;
+}
+.dark_redletter_small{
+    color:#9b1b38; 
+    font-size:88%;
+}
+.dark_blueletter_small{
+    color:#022ca0; 
+    font-size:88%;
+}
 .green_intro_1{
-    background-color:#ffcbd7;
+    background-color:#ffd5de;
     color:#9b1b38;
     font-size:95%;
     width:92%;
     border:2px dashed #f5a5b7;
     border-radius:5px;
-    box-shadow: 0 0 3px 3px #ffcbd7;
+    box-shadow: 0 0 3px 3px #ffd5de;
     text-shadow: 0 0 0px;
     margin:20px 200px 20px 20px;
     padding:10px;
@@ -48,13 +83,13 @@ h1 {
     float:left;
 }
 .green_intro_half{
-    background-color:#ffcbd7;
+    background-color:#ffd5de;
     color:#9b1b38;
     font-size:90%;
     width:45%;
     border:2px dashed #f5a5b7;
     border-radius:5px;
-    box-shadow: 0 0 3px 3px #ffcbd7;
+    box-shadow: 0 0 3px 3px #ffd5de;
     text-shadow: 0 0 0px;
     padding:10px;
     text-align:left;
