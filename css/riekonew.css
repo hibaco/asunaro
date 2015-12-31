@@ -61,12 +61,12 @@ h1 {
     font-size:95%;
     text-decoration: underline;
 }
-.green_intro_1{
+.openhouse_intro{
     background-color:#ffd5de;
     color:#9b1b38;
     font-size:95%;
     width:92%;
-    border:2px dashed #f5a5b7;
+    border:2px dashed #fcb8c7;
     border-radius:5px;
     box-shadow: 0 0 3px 3px #ffd5de;
     text-shadow: 0 0 0px;
@@ -75,9 +75,9 @@ h1 {
     text-align:left;
     float:center;
 }
-.green_intro_2{
+.mommyme_intro{
     background-color:#f5f8a6;
-    color:#fc690d;
+    color:#fc4d0d;
     font-size:95%;
     width:92%;
     border:2px dashed #fcde39;
@@ -94,7 +94,7 @@ h1 {
     color:#9b1b38;
     font-size:90%;
     width:45%;
-    border:2px dashed #f5a5b7;
+    border:2px dashed #fcb8c7;
     border-radius:5px;
     box-shadow: 0 0 3px 3px #ffd5de;
     text-shadow: 0 0 0px;
@@ -218,6 +218,20 @@ h1 {
     text-align: right;
     font-size:75%;
     color: #26335f;
+}
+.select0{
+    border-left:6px solid #f5869f;
+    border-bottom:1px solid #f5869f;
+    padding:.2em .4em;
+    margin: 2px 2px 5px 2px;
+    font-size:100%;
+}
+.select6{
+    border-left:6px solid #faba0c;
+    border-bottom:1px solid #faba0c;
+    padding:.2em .4em;
+    margin: 2px 2px 5px 2px;
+    font-size:100%;
 }
 .select1{
     border-left:6.5px solid #17c6f0;
@@ -462,7 +476,7 @@ tr:hover{
 .facegreen{
     color:#26335f; 
     font-size:80%;
-    margin-right: 40px;
+    margin: 0px 20px 0px 15px;
     padding: 5px 5px 5px 5px;
     float:left
 }
