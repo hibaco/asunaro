@@ -39,6 +39,7 @@ h1 {
     box-shadow: 0 0 3px 3px #92befa;
     text-shadow: 0 0 0px;
     padding:5px;
+    margin-bottom: 15px;
     text-align:center;
     float:right;
 }
