@@ -32,7 +32,7 @@ h1 {
 .white_intro_half{
     background-color:#92befa;
     color:#022ca0;
-    font-size:88%;
+    font-size:100%;
     width:46%;
     border:3px double #fff;
     border-radius:5px;
@@ -61,14 +61,6 @@ h1 {
     font-size:95%;
     text-decoration: underline;
 }
-.dark_redletter_small{
-    color:#9b1b38; 
-    font-size:88%;
-}
-.dark_blueletter_small{
-    color:#022ca0; 
-    font-size:88%;
-}
 .green_intro_1{
     background-color:#ffd5de;
     color:#9b1b38;
@@ -80,8 +72,22 @@ h1 {
     text-shadow: 0 0 0px;
     margin:20px 200px 20px 20px;
     padding:10px;
-    text-align:center;
-    float:left;
+    text-align:left;
+    float:center;
+}
+.green_intro_2{
+    background-color:#f5f8a6;
+    color:#fc690d;
+    font-size:95%;
+    width:92%;
+    border:2px dashed #fcde39;
+    border-radius:5px;
+    box-shadow: 0 0 3px 3px #f5f8a6;
+    text-shadow: 0 0 0px;
+    margin:20px 200px 20px 20px;
+    padding:10px;
+    text-align:left;
+    float:center;
 }
 .green_intro_half{
     background-color:#ffd5de;
