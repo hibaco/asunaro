@@ -89,6 +89,20 @@ h1 {
     text-align:left;
     float:center;
 }
+.summer_intro{
+    background-color:#c1e4e9;
+    color:#0032bb;
+    font-size:95%;
+    width:92%;
+    border:2px dashed #92ccea;
+    border-radius:5px;
+    box-shadow: 0 0 3px 3px #c1e4e9;
+    text-shadow: 0 0 0px;
+    margin:20px 200px 20px 20px;
+    padding:10px;
+    text-align:left;
+    float:center;
+}
 .green_intro_half{
     background-color:#ffd5de;
     color:#9b1b38;
@@ -219,6 +233,13 @@ h1 {
     font-size:75%;
     color: #26335f;
 }
+.schoolname1{
+    text-align: right;
+    font-size:75%;
+    color: #26335f;
+    margin:0px 0px 0px 20px;
+    float:right;
+}
 .select0{
     border-left:6px solid #f5869f;
     border-bottom:1px solid #f5869f;
@@ -229,6 +250,13 @@ h1 {
 .select6{
     border-left:6px solid #faba0c;
     border-bottom:1px solid #faba0c;
+    padding:.2em .4em;
+    margin: 2px 2px 5px 2px;
+    font-size:100%;
+}
+.select7{
+    border-left:6px solid #6cbae2;
+    border-bottom:1px solid #6cbae2;
     padding:.2em .4em;
     margin: 2px 2px 5px 2px;
     font-size:100%;
@@ -268,6 +296,13 @@ h1 {
     margin: 15px 3px 3px 3px;
     font-size:110%;
 }
+.select5a{
+    border-left:6.5px solid #4078e3;
+    border-bottom:1px solid #4078e3;
+    padding:.3em .3em;
+    margin: 15px 3px 3px 3px;
+    font-size:110%;
+}
 .selecttitle{
     height: 23px;
     margin: 5px 0px 0px 3px;
@@ -301,6 +336,15 @@ h1 {
     border-radius:5px;
     padding-left:10px;
 }
+.selecttitle3a{
+    height: 23px;
+    margin: 5px 0px 0px 3px;
+    font-size:100%; 
+    background-color:#c1e4e9;
+    color: #032ea5;
+    border-radius:5px;
+    padding-left:10px;
+}
 .selecttitle4{
     height: 23px;
     margin: 5px 0px 10px 3px;
@@ -322,8 +366,15 @@ h1 {
 .blueletter{
     color:#0032bb; 
 }
+.blueletter1{
+    color:#032ea5; 
+}
 .smallletter{
     color:#0032bb; 
+    font-size:85%;
+}
+.smallletter1{
+    color:#032ea5; 
     font-size:85%;
 }
 .smallletter_black{
@@ -417,6 +468,11 @@ color: #17c6f0;
     display:block;
     font-size:75%;
     color: #0032bb;
+}
+.secondline3a{
+    display:block;
+    font-size:75%;
+    color: #032ea5;
 }
 th, td{
     padding: 7px 7px 7px 7px;
