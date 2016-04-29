@@ -112,6 +112,20 @@ h1 {
     text-align:left;
     float:center;
 }
+.event_intro{
+    background-color:#c8fca7;
+    color:#1b4830;
+    font-size:95%;
+    width:92%;
+    border:2px dashed #a2ed71;
+    border-radius:5px;
+    box-shadow: 0 0 3px 3px #c8fca7;
+    text-shadow: 0 0 0px;
+    margin:20px 200px 20px 20px;
+    padding:10px;
+    text-align:left;
+    float:center;
+}
 .green_intro_half{
     background-color:#ffd5de;
     color:#9b1b38;
@@ -266,6 +280,13 @@ h1 {
 .select7{
     border-left:6px solid #60b3de;
     border-bottom:1px solid #60b3de;
+    padding:.2em .4em;
+    margin: 2px 2px 5px 2px;
+    font-size:100%;
+}
+.select8{
+    border-left:6px solid #8cbf6a;
+    border-bottom:1px solid #8cbf6a;
     padding:.2em .4em;
     margin: 2px 2px 5px 2px;
     font-size:100%;
