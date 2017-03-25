@@ -16,6 +16,7 @@ h1 {
     font-size: 170%;
     text-align:center;
 }
+h4 {margin:0; padding:0;}
 .green_intro_half2{
     background-color:#f5f8a6;
     color:#fc690d;
@@ -52,12 +53,30 @@ h1 {
     font-size:95%;
     text-decoration: underline;
 }
+.dark_blackletter_underlined{
+    color:#0a0a0a; 
+    font-size:95%;
+    text-decoration: underline;
+}
+.dark_blueletter3{
+    color:#3056f7; 
+    font-size:95%;
+}
+.dark_blueletter_title{
+    color:#3056f7; 
+    font-size:100%;
+}
 .dark_blueletter{
     color:#022ca0; 
     font-size:95%;
 }
 .dark_blueletter_underlined{
     color:#022ca0; 
+    font-size:95%;
+    text-decoration: underline;
+}
+.dark_blueletter_underlined1{
+    color:#0c2f90; 
     font-size:95%;
     text-decoration: underline;
 }
@@ -333,6 +352,20 @@ h1 {
     margin: 15px 3px 3px 3px;
     font-size:110%;
 }
+.select9{
+    border-left:6.5px solid #2543c4;
+    border-bottom:1px solid #2543c4;
+    padding:.3em .3em;
+    margin: 3px 3px 3px 3px;
+    font-size:120%;
+}
+.select10{
+    border-left:6.5px solid #f0b617;
+    border-bottom:1px solid #f0b617;
+    padding:.3em .3em;
+    margin: 3px 3px 3px 3px;
+    font-size:120%;
+}
 .selecttitle{
     height: 23px;
     margin: 5px 0px 0px 3px;
@@ -349,13 +382,14 @@ h1 {
     color: #26335f;
 }
 .selecttitle2{
-    height: 23px;
+    height: 45px;
     margin: 5px 0px 0px 3px;
     font-size:100%; 
     background-color:#ffcbd7;
     color: #9b1b38;
     border-radius:5px;
     padding-left:10px;
+    text-align: center
 }
 .selecttitle3{
     height: 23px;
@@ -382,6 +416,16 @@ h1 {
     background-color:#ccc;
     color: #26335f;
     padding-left:10px;
+}
+.selecttitle2a{
+    height: 50px;
+    margin: 5px 0px 10px 3px;
+    font-size:100%; 
+    background-color:rgba(48, 86, 247, 0.19);
+    color: #3056f7;
+    border-radius:5px;
+    padding-left:10px;
+    text-align: center
 }
 .indent{
     padding-left:14px;
@@ -434,7 +478,7 @@ a {
     text-decoration: none;
 }
 a:link {
-    color: #665544;
+    color: black;
 }
 a:visited {
     color: #26335f;
@@ -478,6 +522,13 @@ color: #17c6f0;
     margin: 65px 0px 20px 0px;
     background-color: #ffffff;
     font-size:80%;    
+}
+.pricetable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 5px 0px 10px 3px;
+    background-color: #ffffff;
+    font-size:100%;    
 }
 .secondline{
     display:inline;
@@ -551,7 +602,7 @@ tr.even{
     background-color: #dfeaed;
 }
 tr:hover{
-    background-color: #c3e6e5;
+    background-color: #c1eeff;
 }
 .row{
     width:320px;
@@ -565,6 +616,42 @@ tr:hover{
     margin: 0px 20px 0px 15px;
     padding: 5px 5px 5px 5px;
     float:left
+}
+.button1 {
+    background-color: #3056f7;
+    border-color: #c1eeff;
+    border-radius:5px;
+    color: white;
+    padding: 3px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+.button2 {
+    background-color: #3056f7;
+    border-color: #c1eeff;
+    border-radius:5px;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+.button1:hover {
+    background-color: #c1eeff;
+    border-color: #3056f7;
+    color: black;
+}
+.button2:hover {
+    background-color: #c1eeff;
+    border-color: #3056f7;
+    color: black;
 }
 footer {
     clear: both;
