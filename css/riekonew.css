@@ -85,6 +85,11 @@ h4 {margin:0; padding:0;}
     font-size:95%;
     text-decoration: underline;
 }
+.dark_orangeletter_underlined{
+    color:#d83f07; 
+    font-size:95%;
+    text-decoration: underline;
+}
 .winterspring_break{
     border-left:15px solid #769164;
     padding:7px;
