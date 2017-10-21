@@ -55,7 +55,7 @@ h4 {margin:0; padding:0;}
 }
 .dark_redletter_underlined1{
     color:#83112a; 
-    font-size:100%;
+    font-size:95%;
     text-decoration: underline;
 }
 .dark_blackletter_underlined{
@@ -82,6 +82,11 @@ h4 {margin:0; padding:0;}
 }
 .dark_blueletter_underlined1{
     color:#0c2f90; 
+    font-size:95%;
+    text-decoration: underline;
+}
+.dark_greenletter_underlined1{
+    color:#133c27;
     font-size:95%;
     text-decoration: underline;
 }
@@ -142,11 +147,11 @@ h4 {margin:0; padding:0;}
     float:center;
 }
 .event_intro{
-    background-color:#c8fca7;
+    background-color:#c3ebaa;
     color:#1b4830;
     font-size:95%;
     width:92%;
-    border:2px dashed #a2ed71;
+    border:2px dashed #98ed64;
     border-radius:5px;
     box-shadow: 0 0 3px 3px #c8fca7;
     text-shadow: 0 0 0px;
