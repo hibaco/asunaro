@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>入園案内│グリニッチ/あすなろ国際学園IAAS</title>
+    <meta name="description" content="グリニッチ国際学園とあすなろ国際学園IAASへのお問い合わせ">
+    <link rel="stylesheet" type="text/css" href="css/riekonew.css" />
+    <link rel="shortcut icon" href="favicon.ico" />
+</head>
+<body>
+    <div class="wrapper">
+        <a href="index.html">
+            <img src="pics/title2.jpg" alt="グリニッチ国際学園とあすなろ国際学園IAAS" width="800" height="170" /></a>
+        <div id="menu">
+            <ul>
+                <li><a href="index.html">ホーム</a></li>
+                <li><a href="aboutus.html">両園の概要</a></li>
+                <li><a href="philosophy.html">保育方針</a></li>
+                <li><a href="schedule.html">一日のながれ</a></li>
+                <li><a href="events.html">年間行事</a></li>
+                <li><a href="programs.html">特徴と活動</a></li>
+                <li><a href="contactus.html">入園案内</a></li>
+            </ul>
+        </div>
+        <div class="pbox2">
+            <div class="selecttitle4">
+                <h3>
+                    入園案内
+                </h3>
+            </div>
+            <div class="select1">
+                <strong>グリニッチ国際学園<span class="secondline1">Wideworld Children's Corner</span></strong></div>
+            <div class="indent">
+                <p>
+                    521 E. Putnam Ave., Cos Cob, CT 06807
+                    <br />
+                    TEL: <strong>203-629-5567</strong>
+                    <br />
+                    Email：<u><a href="mailto:info@greenwichkokusai.org">info@greenwichkokusai.org</a></u>
+                    <br />
+                    ２歳～６歳までの幼児。途中入園随時受付中。保育料等のご質問は、直接園事務局へお問い合わせください。
+                    <br />
+                    <span class="underline">途中入園をお考えのお子様で、一日体験入園をされたい方は、園事務局までいつでもご連絡ください。</span>
+                </p>
+                <a href="2017-2018_Greenwich/GR_App_Guide_JE.pdf">
+                       <h4><span class="dark_blueletter">1. 募集要項　Application Guide</span></h4></a>
+                <a href="2017-2018_Greenwich/GR_Enr_Agreement_JE.pdf">
+                       <h4><span class="dark_blueletter">2. 入園同意書　Enrollment Agreement</span></h4></a>
+                <a href="2016-2017_greenwich/childcare_behavior_management.pdf">
+                       <h4><span class="dark_blueletter">3. 幼児保育行動管理同意書　Childcare Behavior Management Policy and Agreement</span></a>
+                    <a href="2017-2018_Greenwich/Authorization_Form_2017-2018.pdf">
+                       <h4><span class="dark_blueletter">4. 承諾書　Authorization Form</span></a>
+                <a href="2017-2018_Greenwich/EMERGENCY_MEDICAL_CARD_YEAR_2017.pdf">
+                       <h4><span class="dark_blueletter">5. 救急医療カード　Emergency Medical Card</span></a>
+                <a href="greenwich_forms/HPweb_permit_form.pdf">
+                        <h4><span class="dark_blueletter">6. ホームページ用写真掲載許可書　Photo Release Form</span></a>
+                 <a href="greenwich_forms/health_record.pdf">
+                        <h4><span class="dark_blueletter">7. 健康診断書　Health Record</span></a>
+                    <br />
+                <br />
+            </div>
+            <div class="select2">
+                <strong>あすなろ国際学園IAAS<span class="secondline1">International Academy of Arts and Sciences</span></strong></div>
+            <div class="indent">
+                <p>
+                    300 High St., Closter, NJ 07624
+                    <br />
+                    TEL: <strong>201-767-1144</strong>
+                    <br />
+                    Email: <u><a href="mailto:info@asunarokokusai.org">info@asunarokokusai.org</a></u>
+                    <br />
+                    ２歳半～６歳までの幼児。途中入園随時受付中。 各クラス定員になり次第締め切らせていただきます。
+                </p>
+            </div>
+            <div class="selecttitle">
+                <h3>
+                    途中入園について
+                </h3>
+            </div>
+            <div class="indent">
+                <p>
+                    転入等で、途中入園をご希望の方は、上記電話番号またはEメールにて、お気軽にお問い合わせ下さい。
+                    <br />
+                    (お電話は、平日現地時間の午前９時から午後３時まででお願いいたします）
+                </p>
+            </div>
+                        <div class="selecttitle">
+                <h3>
+                    入園者受け入れに関する基本方針
+                </h3>
+            </div>
+            <div class="indent">
+                <p>
+                    グリニッチ国際学園と、あすなろ国際学園IAASに入園するにおいて、すべての生徒は、人種、肌の色、国籍や出身民族の如何にかかわらず、一般教養とあらゆる活動を享受する権利を有し、適切な教育制度の下で差別のないこととする。
+                </p>
+            </div>
+        </div>
+        <div class="encho">
+            <img src="greenwich pics/greenwich.jpg" alt="グリニッチ国際学園園舎" width="320" height="240"></div>
+        <div class="schoolname">
+            グリニッチ国際学園園舎
+        </div>
+        <div class="encho">
+            <img src="iaas pics/iaas.jpg" alt="あすなろ国際学園IAAS園舎" width="320" height="240">
+        </div>
+        <div class="schoolname">
+            あすなろ国際学園IAAS園舎
+        </div>
+        <div class="encho">
+            <img src="iaas pics/class.jpg" alt="あすなろ国際学園IAASクラス風景" width="320" height="170">
+        </div>
+        <div class="schoolname">
+            みんななかよし
+            </div>
+             
+        <footer>
+     <p>&copy;2014 Wideworld Children's Corner/International Academy of Arts and Sciences. All Rights Reserved.</p>
+  </footer>
+    </div>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-51283084-1', 'asunarokokusai.org');
+        ga('send', 'pageview');
+    </script>
+    
+</body>
+</html>
