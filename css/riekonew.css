@@ -471,6 +471,11 @@ h4 {margin:0; padding:0;}
     font-size:85%;
     text-decoration:underline;
 }
+.smallletter_black1{
+    color:#0d0d0d; 
+    font-size:90%;
+    text-decoration:underline;
+}
 .smallletter_red{
     color:#9b1b38; 
     font-size:85%;
@@ -553,6 +558,11 @@ color: #17c6f0;
 .secondline1{
     display:block;
     font-size:75%;
+    color: #26335f;
+}
+.secondline1a{
+    display:block;
+    font-size:72%;
     color: #26335f;
 }
 .secondline2{
@@ -668,6 +678,7 @@ tr:hover{
     border-color: #3056f7;
     color: black;
 }
+
 footer {
     clear: both;
     font-size:70%;
