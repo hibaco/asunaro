@@ -466,6 +466,10 @@ h4 {margin:0; padding:0;}
     color:#032ea5; 
     font-size:85%;
 }
+.smallletter2{
+    color:#032ea5; 
+    font-size:90%;
+}
 .smallletter_black{
     color:#0d0d0d; 
     font-size:85%;
@@ -562,7 +566,7 @@ color: #17c6f0;
 }
 .secondline1a{
     display:block;
-    font-size:72%;
+    font-size:70%;
     color: #26335f;
 }
 .secondline2{
