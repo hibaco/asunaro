@@ -433,13 +433,12 @@ h4 {margin:0; padding:0;}
     padding-left:10px;
 }
 .selecttitle2a{
-    height: 50px;
+    height: 45px;
     margin: 5px 0px 10px 3px;
     font-size:100%; 
     background-color:rgba(48, 86, 247, 0.19);
     color: #3056f7;
     border-radius:5px;
-    padding-left:10px;
     text-align: center
 }
 .indent{
