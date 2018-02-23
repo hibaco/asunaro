@@ -641,9 +641,10 @@ tr:hover{
 .facegreen{
     color:#26335f; 
     font-size:80%;
-    margin: 0px 20px 0px 15px;
+    margin: 0px 0px 0px 15px;
     padding: 5px 5px 5px 5px;
-    float:left
+    text-align: center;
+    float:left;
 }
 .button1 {
     background-color: #3056f7;
