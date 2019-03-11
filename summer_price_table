@@ -1,0 +1,39 @@
+<table class="pricetable">  
+                <tr>
+    <th>２歳クラス</th>
+    <th>午前コース</th> 
+    <th>１日コース</th>
+  </tr>
+  <tr>
+    <td>週５回</td>
+    <td>＄525</td>
+    <td>＄820</td>
+  </tr>
+  <tr>
+    <td>週２回（火木）</td>
+    <td>＄265</td>
+    <td>＄370</td>
+  </tr>
+  <tr>
+    <td>週３回（月水金）</td>
+    <td>＄375</td>
+    <td>＄530</td>
+  </tr>
+  </table>
+   <table class="pricetable">  
+     <tr>
+    <th>３歳〜小学生</th>
+  <td>＄840（＄756＋＄84/水泳４回）</td>
+  </tr>
+</table>
+
+<table class="pricetable">  
+                <tr>
+    <td>１日コース</td>
+    <td>＄610</td>
+  </tr>
+  <tr>
+    <td>半日コース</td>
+    <td>＄435</td>
+  </tr>
+  </table>
