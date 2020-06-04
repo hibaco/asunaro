@@ -103,6 +103,11 @@ h4 {margin:0; padding:0;}
     font-size:95%;
     text-decoration: underline;
 }
+.dark_blackletter_title{
+    text-align: center
+    color:#000000; 
+    font-size:120%;
+}
 .winterspring_break{
     border-left:15px solid #769164;
     padding:7px;
@@ -240,9 +245,27 @@ h4 {margin:0; padding:0;}
     font-size:85%;
     text-align: left;
 } 
+.pbox0{
+    width:770px;
+    float: left;
+    margin:10px auto 20px;
+    padding: 5px 10px 5px;
+    background-color:#fff;
+    font-size:85%;
+    text-align: left;
+} 
 .pboxprofile
 {
     text-align: right; 
+}
+.pboxprofile1
+{
+    text-align: left; 
+}
+.pbox_title{
+    text-align: center; 
+    font-size:100%;
+    text-decoration: underline;
 }
 .encho{
     margin:20px 0px 0px 0px;
@@ -286,6 +309,15 @@ h4 {margin:0; padding:0;}
 } 
 .pbox6{
     width:450px;
+    float: left;
+    margin:20px auto;
+    padding: 5px 10px 5px;
+    background-color:#fff;
+    font-size:85%;
+    text-align: left;
+} 
+.pbox7{
+    width:700px;
     float: left;
     margin:20px auto;
     padding: 5px 10px 5px;
