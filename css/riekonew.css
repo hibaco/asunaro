@@ -160,13 +160,27 @@ h4 {margin:0; padding:0;}
     float:center;
 }
 .event_intro{
-    background-color:#c3ebaa;
-    color:#1b4830;
+    background-color:#fff;
+    color:#26335f;
     font-size:95%;
     width:92%;
-    border:2px dashed #9bd872;
+    border:2px  #0032bb;
     border-radius:5px;
-    box-shadow: 0 0 3px 3px #c8fca7;
+    box-shadow: 0 0 3px 3px #fff;
+    text-shadow: 0 0 0px;
+    margin:20px 200px 20px 20px;
+    padding:10px;
+    text-align:left;
+    float:center;
+}
+.event_intro1{
+    background-color:#fff;
+    color:#26335f;
+    font-size:85%;
+    width:92%;
+    border:2px  #0032bb;
+    border-radius:5px;
+    box-shadow: 0 0 3px 3px #fff;
     text-shadow: 0 0 0px;
     margin:20px 200px 20px 20px;
     padding:10px;
@@ -365,6 +379,13 @@ h4 {margin:0; padding:0;}
     margin: 2px 2px 5px 2px;
     font-size:100%;
 }
+.select81{
+    border-left:6px solid #0032bb;
+    border-bottom:1px solid #0032bb;
+    padding:.2em .4em;
+    margin: 2px 2px 5px 2px;
+    font-size:120%;
+}
 .select1{
     border-left:6.5px solid #17c6f0;
     border-bottom:1px solid #ccc;
@@ -522,6 +543,9 @@ h4 {margin:0; padding:0;}
 .smallletter_red{
     color:#9b1b38; 
     font-size:85%;
+}
+.letter_right{
+    text-align: right
 }
 figure{
     display: block;
